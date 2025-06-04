@@ -1,4 +1,4 @@
-package hello.springtx.propagion;
+package hello.springtx.propagation;
 
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;
